@@ -1,0 +1,3 @@
+
+    this.costume = "costume1";
+  
